@@ -1,5 +1,4 @@
 # Standard YOLO image detection script with file upload dialog
-# Author: Your Name
 # Date: 2026-02-18
 # Description: Detect teeth conditions in a user-selected image using YOLO model.
 
