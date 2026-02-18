@@ -1,6 +1,6 @@
-# Teeth Condition Detection with YOLO
+# Teeth OPG Detection with YOLO
 
-A simple Python script that uses a YOLO model to detect teeth conditions in user-selected images. Users can select any image from their computer, and the script will display the detection results along with accuracy scores.
+A simple Python script that uses a YOLO model to detect teeth conditions in user-selected OPG images. Users can select any OPG image from their computer, and the script will display the detection results along with accuracy scores.
 
 ## Features
 
@@ -20,7 +20,7 @@ A simple Python script that uses a YOLO model to detect teeth conditions in user
 
 1. Place your `best.pt` model file in the project folder.
 2. Run the script:
-3. Select an image file (.jpg, .jpeg, .png) when prompted.
+3. Select an OPG image file (.jpg, .jpeg, .png) when prompted.
 4. The script will show:
 
   - Detection results in the console (average accuracy)
